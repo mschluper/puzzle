@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Puzzle", "Puzzle\Puzzle.csproj", "{3AE91762-9F02-4CD1-96B9-DF8E3197EC6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PuzzleApiTest", "PuzzleApiTest\PuzzleApiTest.csproj", "{70FFDC58-1C56-4C3C-AC46-4CC059FBA2EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE91762-9F02-4CD1-96B9-DF8E3197EC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE91762-9F02-4CD1-96B9-DF8E3197EC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE91762-9F02-4CD1-96B9-DF8E3197EC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE91762-9F02-4CD1-96B9-DF8E3197EC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70FFDC58-1C56-4C3C-AC46-4CC059FBA2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FFDC58-1C56-4C3C-AC46-4CC059FBA2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FFDC58-1C56-4C3C-AC46-4CC059FBA2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FFDC58-1C56-4C3C-AC46-4CC059FBA2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BC57E06-02A2-4A37-8F77-638BDF617A08}
+	EndGlobalSection
+EndGlobal
