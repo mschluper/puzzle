@@ -36,4 +36,6 @@ The second responds with a Json object that contains two arrays of strings: the 
 
 # How to use
 
-Microsoft Visual Studio Community 2017 can be used to run the solution.  
+Microsoft Visual Studio Community 2017 can be used to run the solution. 
+
+Hit F5 to run. Depending on your computer speed, you can see the app find the word DEMOCRACY using URL api/Words/DEM,RCO,AOY in the allotted 5 seconds. If you change the allotted time to 1 (second) it may not find the word DEMOCRACY. 
