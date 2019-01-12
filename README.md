@@ -12,9 +12,9 @@ AZI,RCA,EVE
 
 The valid words are perhaps easier found with the board written as:
 
-A Z I
-R C A
-E V E 
+A Z I  
+R C A  
+E V E
 
 A word is valid if it appears on the board (i.e. can be read in any, not necessarily straight direction) and is listed in a given dictionary. In the example we can see not only straight words like ACE, ARE, ERA, EVE, and ICE, but also words like CAVER.
 
